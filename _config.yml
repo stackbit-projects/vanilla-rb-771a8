@@ -38,9 +38,6 @@ footer:
     - label: LinkedIn
       url: 'https://www.linkedin.com/richardbanyard/'
       new_window: true
-    - label: DEV
-      url: 'https://dev.to/'
-      new_window: true
 sass:
   indentWidth: 4
   style: nested
