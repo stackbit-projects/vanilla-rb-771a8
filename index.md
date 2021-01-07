@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: Human Automation
     subtitle: '### Take control of your business'
-    image: images/avatar.png
+    image: images/BC59B11D-470B-4E02-A520-AF50CA92212A.jpeg
     image_alt: Author avatar
   - title: Text
     section_id: intro
